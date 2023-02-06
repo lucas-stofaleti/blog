@@ -1,0 +1,48 @@
+baseurl = "/"
+languageCode = "pt-br"
+theme = "hello-friend"
+paginate = 2
+defaultContentLanguage = "br"
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # Enable to show reading time in minutes for posts
+  showReadingTime = true
+
+[languages]
+  [languages.br]
+    title = "lucas_stofaleti.sh"
+    keywords = "Devops"
+    copyright = ""
+    menuMore = "Mais"
+    writtenBy = "Escrito por"
+    readMore = "Leia mais"
+    readOtherPosts = "Leia mais"
+    newerPosts = "Mais recentes"
+    olderPosts = "Mais antigos"
+    minuteReadingTime = "minuto(s)"
+    dateFormatSingle = "02-01-2006"
+    dateFormatList = "02-01-2006"
+
+    [languages.br.params.logo]
+      logoText = ". lucas_stofaleti.sh"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.br.menu]
+      [[languages.br.menu.main]]
+        identifier = "about"
+        name = "sobre"
+        url = "/about"
+      [[languages.br.menu.main]]
+        identifier = "posts"
+        name = "posts"
+        url = "/posts"
