@@ -4,11 +4,13 @@ theme = "hello-friend"
 paginate = 2
 defaultContentLanguage = "br"
 
+disqusShortname = 'blog-stofaleti-com'
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
@@ -43,6 +45,38 @@ defaultContentLanguage = "br"
         name = "sobre"
         url = "/about"
       [[languages.br.menu.main]]
+        identifier = "posts"
+        name = "posts"
+        url = "/posts"
+
+  [languages.en]
+    title = "lucas_stofaleti.sh"
+    keywords = "Devops"
+    copyright = ""
+    menuMore = "Mais"
+    writtenBy = "Escrito por"
+    readMore = "Leia mais"
+    readOtherPosts = "Leia mais"
+    newerPosts = "Mais recentes"
+    olderPosts = "Mais antigos"
+    minuteReadingTime = "minuto(s)"
+    dateFormatSingle = "02-01-2006"
+    dateFormatList = "02-01-2006"
+
+    [languages.en.params.logo]
+      logoText = ". lucas_stofaleti.sh"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "sobre"
+        url = "/about"
+      [[languages.en.menu.main]]
         identifier = "posts"
         name = "posts"
         url = "/posts"
