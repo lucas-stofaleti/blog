@@ -1,21 +1,17 @@
 +++
-title = "About"
+title = "Sobre"
 date = "2023-02-08"
 author = "Radek"
 +++
 
-# Hi there
+## Olá
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+Meu nome é **Lucas Stofaleti**, sou natural de São Paulo e atualmente trabalho como **DevOps Engineer** na ASML e resido na Holanda.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Sou apaixonado por tecnologia e, em especial, pelo universo DevOps. Tenho uma paixão por entrega contínua e automação de infraestrutura, e já tive a oportunidade de trabalhar em diversos tipos de empresas, desde startups até empresas estatais.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+Como defensor da tecnologia de **código aberto**, acredito que ela é uma ferramenta poderosa para aproximar pessoas e empresas. Aqui no meu blog, pretendo compartilhar minhas experiências e aprendizados nesse campo, além de discutir tendências e soluções inovadoras.
 
-The theme includes:
+Se você é interessado em tecnologia, especialmente no universo DevOps, espero que encontre aqui no meu blog informações valiosas e insights interessantes. Fique à vontade para compartilhar suas opiniões e perguntas nos comentários, estou sempre disposto a conversar e aprender mais.
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+Além disso, você pode me encontrar no **[LinkedIn](www.linkedin.com/in/lucasstofaleti)** e no **[Github](https://github.com/lucas-stofaleti)**. Sinta-se à vontade para me seguir e se conectar comigo nessas plataformas.
