@@ -1,7 +1,7 @@
 +++
 title = "Sobre"
 date = "2023-02-08"
-author = "Radek"
+author = "Lucas Stofaleti"
 +++
 
 ## Olá
