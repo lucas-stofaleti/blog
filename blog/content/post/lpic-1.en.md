@@ -1,58 +1,58 @@
 ---
-title: "Minha experiência com a LPIC-1"
+title: "My experience with LPIC-1 certification"
 date: "2023-02-05"
 author: "Lucas Stofaleti"
 cover: "img/lpi.png"
-description: "Conheça a experiência de um DevOps Engineer na certificação LPIC-1 e descubra como se preparar para a prova."
+description: "Learn about the experience of a DevOps Engineer in the LPIC-1 certification and find out how to prepare for the test."
 ---
 
-Olá! Em janeiro/23 eu tirei a certificação LPIC-1 e nesse post eu gostaria de compartilhar como eu me preparei e o que eu achei da prova.
+Hello! In January/23 I took the LPIC-1 certification and in this post I would like to share how I prepared and what I thought of the exam.
 
-## Quem sou eu?
-Meu nome é **Lucas Stofaleti** e sou natural de São Paulo. No momento que escrevo essa postagem eu trabalho como **Devops Engineer** na ASML e moro na Holanda.
-Tenho alguns anos de experiência com Linux tanto no trabalho como usuário Desktop então eu não sai do absoluto zero para tirar a certificação.
+## Who am I?
+My name is **Lucas Stofaleti** and I am from São Paulo. At the time I write this post I work as a **DevOps Engineer** at ASML and I live in the Netherlands.
+I have several years of experience with Linux both at work and as a Desktop user, so I did not start from absolute zero to take the certification.
 
-## Como é a prova?
-Para tirar a certificação é preciso passar em duas provas: **101-500** e **102-500**. Os objetivos específicos podem ser vistos no site da **[LPI](https://www.lpi.org/our-certifications/lpic-1-overview)**.
+## How is the exam?
+To take the certification, you must pass two exams: **101-500** and **102-500**. The specific objectives can be seen on the LPI website: **[LPI](https://www.lpi.org/our-certifications/lpic-1-overview)**.
 
-Cada prova tem 60 questões e custa **USD 130.00** pra quem mora no Brasil. As provas podem ser feitas online ou presencial em algum centro parceiro.
+Each exam has 60 questions and costs **USD 130.00** for those living in Brazil. The exams can be taken online or in-person at a partner center.
 
-Eu fiz a primeira prova presencial e a outra online e recomendo fortemente fazer as provas presencialmente caso seja possível. O preço é o mesmo nas duas versões e caso faça em casa o risco de problemas de conexão é grande, além de diversos pré-requisitos de ambiente, barulho e sistema operacional.
-Um dos requisitos mais lamentáveis é que a prova **não pode ser feita em desktops Linux**. O que é totalmente sem sentido para uma prova sobre Linux focada na cultura open-source.
+I took the first exam in-person and the other online, and I strongly recommend taking the exams in-person if possible. The price is the same in both versions, and if you take it at home, the risk of connectivity problems is great, as well as various environment, noise, and operating system requirements.
+One of the most unfortunate requirements is that the exam **cannot be taken on Linux desktops**. Which is completely senseless for an exam about Linux focused on the open-source culture.
 
-## Como eu estudei?
-Na teoria não é preciso gastar nada para se preparar para as provas. A própria LPI fornece conteúdo gratuito:
+## How did I study?
+In theory, you don't have to spend anything to prepare for the exams. The LPI itself provides free content:
 - [LPIC-1 Exam 101](https://learning.lpi.org/en/learning-materials/101-500/)
 - [LPIC-1 Exam 102](https://learning.lpi.org/en/learning-materials/102-500/)
 
-Eu cheguei a ler alguns PDFs do material oficial e considero de boa qualidade. Porém eu estudei pelo curso do Ricardo Prudenciato na Udemy. É o curso com melhor custo benefício que achei e o professor realmente tem vasto conhecimento na área. Vou deixar o link para o curso abaixo caso tenham interesse:
-> **Update:** Aparentemente o curso fechou para novas inscrições na Udemy. Caso tenham interesse acessem o site oficial do professor e se matriculem pela plataforma própria. [Curso Ricardo Prudenciato](https://linuxsemfronteiras.com.br/certificacoes/lpic-1/)
+I did read some of the official material's PDFs and consider it to be of good quality. However, I studied through Ricardo Prudenciato's course on Udemy **(Portuguese Only)**. It's the course with the best cost-benefit ratio I found, and the teacher really has vast knowledge in the area. I'll leave the link to the course below in case you're interested:
+> **Update:** Apparently the course is closed for new registrations on Udemy. If you're interested, access the teacher's official website and enroll on their own platform. [Ricardo Prudenciato Course](https://linuxsemfronteiras.com.br/certificacoes/lpic-1/)
 
-Eu demorei mais ou menos uns **3 meses** desde que comecei a estudar até fazer as duas provas. Durante esse tempo eu não estudei todos os dias o que me fez demorar mais tempo do que o normal. Porém o tempo pode ser diferente dependendo da experiência prévia. A minha dica aqui é não focar tanto em tirar a certificação o mais rápido possível e sim em aprender e entender bem o conteúdo.
+It took me about **3 months** from the time I started studying until I took both exams. During this time, I didn't study every day, which made me take longer than normal. However, the time can be different depending on prior experience. My tip here is not to focus so much on getting the certification as fast as possible, but rather on learning and understanding the content well.
 
-## Vou conseguir um emprego?
-Há um grande embate na área de TI sobre o real valor das certificações de forma geral. Já conheci pessoas que consideram as certificações mais importantes que faculdade e outras que dizem que não há valor nenhum.
+## Will I get a job?
+There is a big debate in the IT area about the real value of certifications in general. I have met people who consider certifications more important than college and others who say there is no value at all.
 
-Pela minha concepção o mais relevante é a **experiência**. As empresas de fato procuram profissionais com mais experiência na área e passagem por empresas conhecidas. Porém as certificações tem **boa visibilidade** e as vezes são até **pré-requisitos** para as vagas.
+In my opinion, the most relevant is the **experience**. Companies really look for professionals with more experience in the area and passage through known companies. However, certifications have **good visibility** and sometimes are even **prerequisites** for the jobs.
 
-Eu particularmente recomendo focar em aprender o conteúdo que é o que vale no final das contas no dia a dia e aceitar que não há garantia de nada, tudo que podemos fazer é trabalhar com probabilidade e aumentar nossas chances. E é evidente que fazer uma **certificação aumenta sua probabilidade de ser contratado**.
+I personally recommend focusing on learning the content that is what counts in the end in day-to-day life and accept that there is no guarantee of anything, all we can do is work with probability and increase our chances. And it is evident that doing a **certification increases your probability of being hired**.
 
-Sobre a densidade do conteúdo, eu acredito que é mais do que suficiente para funções de **Desenvolvimento, Cloud e Devops Engineer**. Porém para funcões como SyAdmin talvez seja importante também ter conhecimento do conteúdo da LPIC-2, pois é necessário saber configurar serviços não abordados na primeira certificação. Isso porque a primeira prova acaba colocando alguns conteúdos que não são tão relevantes no dia a dia de um profissional como Interfaces Gráficas e alguns outros.
+About the density of the content, I believe that it is more than enough for **Development, Cloud and Devops Engineer** functions. However, for functions such as SyAdmin it may be important to also have knowledge of the content of LPIC-2, as it is necessary to know how to configure services not covered in the first certification. This is because the first exam ends up putting some contents that are not so relevant in the day-to-day life of a professional such as Graphical Interfaces and some others.
 
 ## LPIC-1, RHCSA ou LFCS?
-Se você pretende fazer alguma certificação Linux pode ainda não ter se convencido a fazer a LPIC-1. De fato existem diversas empresas diferentes que fornecem programas focados em Linux. Abaixo eu coloquei as outras 2 que eu considero mais relevantes e uma breve descrição:
-- **[RHCSA](https://www.redhat.com/en/services/certification/rhcsa)**: Essa é a certificação oficial da **RedHat**. Uma das distribuições mais utilizadas no mundo corporativo. A certificação é totalmente **hands-on** e tem o custo de **BRL 1600,00**. Acredito que essa seja a certificação mais valorizada na Europa sobre Linux. O ponto negativo é que é focada somente em uma distro.
-- **[LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)**: Essa certificação é da **The Linux Foundation**. Também é totalmente **hands-on** com um custo de **USD 395,00**. Você pode escolher fazer sua prova utilizando Ubuntu ou CentOs.
+If you intend to take a Linux certification, you may not have decided to take the LPIC-1 yet. In fact, there are several different companies that provide Linux-focused programs. Below, I have listed the other 2 that I consider the most relevant and a brief description:
+- **[RHCSA](https://www.redhat.com/en/services/certification/rhcsa)**: This is official **RedHat** certification. One of the most used distributions in the corporate world. The certification is completely **hands-on** and costs **BRL 1600.00**. I believe this is the most valued certification in Europe about Linux. The negative point is that it is focused only on one distro.
+- **[LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)**: This certification is from **The Linux Foundation**. It is also fully **hands-on** at a cost of **USD 395.00**. You can choose to take your test using Ubuntu or CentOs.
 
-Eu criei essa tabela abaixo com que você pode utilizar para escolher o seu caminho. Marquei com **X** quando a certificação leva vantagem em algum tópico.
+I created this table below that you can use to choose your path. I marked with **X** when the certification has an advantage in some topic.
 
 |                         |LPIC-1 |RHCSA |LFCS |
 |-------------------------|-------|------|-----|
-|Preço                    |  `X`  |      |     |
-|Reconhecimento no Brasil |  `X`  |      |     |
-|Reconhecimento na Europa |       |  `X` |     |
-|Prova prática            |       |  `X` | `X` |
-|Conteúdo relevante       |       |      | `X` |
+|Price                    |  `X`  |      |     |
+|Recognition in Brazil    |  `X`  |      |     |
+|Recognition in Europe    |       |  `X` |     |
+|Hands on test            |       |  `X` | `X` |
+|Relevant Content         |       |      | `X` |
 
-## Conclusão
-Espero ter ajudado você a chegar a alguma conclusão com esse post e não te confundido mais ainda. Caso queira me acompanhar, deixo meu [LinkedIn](https://www.linkedin.com/in/lucasstofaleti/) :)
+## Conclusion
+I hope I have helped you to come to some conclusion with this post and not confused you even more. If you want to follow me, check my [LinkedIn](https://www.linkedin.com/in/lucasstofaleti/) :)
